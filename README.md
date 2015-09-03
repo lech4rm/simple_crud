@@ -1,4 +1,6 @@
 # simple_crud
+link : http://leo-allen.com/proj1
+
 This is my first php project. Pff Who am I kidding? This is my first working piece of code. lol. 
 I followed this excellent tutorial from Kristian Guevara @ www.codeproject.com. I kinda just learned reiterated the code with some modifications. Used bootstrap for css framework because that's like the only css framework that i'm familiar with.
 
